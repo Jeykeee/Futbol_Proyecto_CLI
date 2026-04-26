@@ -117,8 +117,5 @@ Futbol-Proyecto-cli/
 
 Joel - https://github.com/Jeykeee
 
-
----
-
 Este proyecto forma parte de un portafolio de aprendizaje en Python,
 consumo de APIs REST y buenas practicas con Git.
