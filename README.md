@@ -115,7 +115,8 @@ Futbol-Proyecto-cli/
 
 ## Autor
 
-Joel - https://github.com/TU_USUARIO
+Joel - https://github.com/Jeykeee
+
 
 ---
 
